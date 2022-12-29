@@ -3,8 +3,5 @@
 
 ![image](https://user-images.githubusercontent.com/105124943/209945479-21293926-67d8-4153-a210-052087df5515.png)
 
-<p align="center">
 ![image](https://user-images.githubusercontent.com/105124943/209945803-e2ab08d7-b7e0-4225-a424-812eeda1235c.png)
 
-
-</p>
