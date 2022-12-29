@@ -1,3 +1,2 @@
 # Project-Greenhands
-![image](https://user-images.githubusercontent.com/105124943/209944796-4b1db879-08f4-4a44-8c60-05ccb5b9cb6e.png) ![image](https://user-images.githubusercontent.com/105124943/209944909-448e6ee3-a0bf-408a-9cab-9d739761c946.png)
-
+![image](https://user-images.githubusercontent.com/105124943/209945106-5dada90a-c1f6-4617-9a87-420f225996d5.png) ![image](https://user-images.githubusercontent.com/105124943/209945148-160fbc83-c506-4dcd-8be1-0744b4e3c0a1.png)
